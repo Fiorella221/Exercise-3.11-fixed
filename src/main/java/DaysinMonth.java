@@ -65,7 +65,7 @@ import java.util.Scanner;
         days = 31;
         break;
       default:
-        System.out.println("Invalid month. Please enter a number    between 1 and 12.");
+        System.out.println("Invalid month. Please enter a number between 1 and 12.");
         input.close();
         return;
       }
